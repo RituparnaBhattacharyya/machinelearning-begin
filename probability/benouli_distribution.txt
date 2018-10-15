@@ -1,0 +1,7 @@
+takes two points...like head and tail.
+if the probability of generating first is p, the other value is 1-p.
+both values are discrete.
+
+Binomial Distribution is the one which takes no of attempts into consideration.
+
+if n is no of attempts, and prob is .5 then y ~ (n, p)s
